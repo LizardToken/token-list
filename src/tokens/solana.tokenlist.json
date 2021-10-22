@@ -18612,21 +18612,16 @@
     },
     {
       "chainId": 101,
-      "address": "2HeykdKjzHKGm2LKHw8pDYwjKPiFEoXAz74dirhUgQvq",
-      "symbol": "SAO",
-      "name": "Sator",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2HeykdKjzHKGm2LKHw8pDYwjKPiFEoXAz74dirhUgQvq/Sator_Logo.png",
-      "tags": [
-   	 "NFT",
-         "soical-token",
-   	 "utility-token",
-   	 "meta-verse"
-      ],
+      "address": "5ENUvV3Ur3o3Fg6LVRfHL4sowidiVTMHHsEFqNJXRz6o",
+      "symbol": "LIZARD",
+      "name": "Lizard Token",
+      "decimals": 4,
+      "logoURI": "http://lizardtoken.xyz/gallery/logo-ts1634855480.png",
+      "tags": 
       "extensions": {
-   	 "website": "https://sator.io",
-   	 "twitter": "https://twitter.com/SatorSAO",
-   	 "telegram": "https://t.me/SatorSAO"
+   	 "website": "http://www.lizardToken.xyz",
+   	 "twitter": "https://twitter.com/Lizard_Token",
+   	 "discord": "https://discord.gg/zMvCkck2k2"
       }
     }
   ],
